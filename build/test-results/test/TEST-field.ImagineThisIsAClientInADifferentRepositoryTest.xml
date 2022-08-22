@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="field.ImagineThisIsAClientInADifferentRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-22T10:12:12" hostname="LFVFGD7NRQ05N.local" time="0.038">
+  <properties/>
+  <testcase name="singleItem_numberOfProductsInTheCart()" classname="field.ImagineThisIsAClientInADifferentRepositoryTest" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

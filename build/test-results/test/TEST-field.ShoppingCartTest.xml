@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="field.ShoppingCartTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-22T10:12:12" hostname="LFVFGD7NRQ05N.local" time="0.013">
+  <properties/>
+  <testcase name="singleItem_totalPrice()" classname="field.ShoppingCartTest" time="0.004"/>
+  <testcase name="singleItem_numberOfProductsInTheCart()" classname="field.ShoppingCartTest" time="0.001"/>
+  <testcase name="singleItem_hasDiscountIfContainsAtLeastOneProductWorthAtLeast100()" classname="field.ShoppingCartTest" time="0.003"/>
+  <testcase name="singleItem_doesNotHaveDiscountIfContainsNoProductsWorthAtLeast100()" classname="field.ShoppingCartTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
